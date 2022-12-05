@@ -1,0 +1,22 @@
+
+how many books? 3 ok
+
+first input to put how many books?
+
+then save this number and clear the page
+and then put the other inputs
+
+book name
+price
+author name
+author email
+
+///////////////
+arrof booknames, prices, author, email    i
+////
+
+collect information
+
+put counter of hom many books we have?
+once done assign to the show page.
+
